@@ -1,0 +1,10 @@
+[Event "TonyPi chess"]
+[Site "TonyPi"]
+[Date "2026.09.28"]
+[Round "?"]
+[White "Human"]
+[Black "TonyPi (TonyPi built-in engine)"]
+[Result "0-1"]
+
+1. e4 Nf6 2. c3 Nxe4 3. Nf3 Nc6 0-1
+
